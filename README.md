@@ -4,6 +4,10 @@ UTS Citra Digital Kelas A NIM 2006189
 Nama : Endang Prayoga Hidayatulloh
 NIM  : 2006189
 
+## Google Colab
+Maaf bu karena file yang terlalu besar tidak bisa ditampilkan langsung di Github
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DsIGhVwSGIcFO8eLIuwVxHzUkIqvqmoe) (Online Demo)
+
 # Import Module yang di butuhkan
 Beberapa module yang dibutuhkan yaitu:
 *   cv2
